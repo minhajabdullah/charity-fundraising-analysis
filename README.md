@@ -253,8 +253,8 @@ Most transactions out of appeal date range occurred almost a year after the appe
 | **Grand Total** |   | **1** | **1** | **1** | **2** | **0** | **1** | **2** | **1** | **1** | **1** | **0** | **1** |
 
 ## Analysis Files
-[`Excel Workbook`](https://github.com/mabdullah275/Charity-Fundraising-Analysis/blob/main/Data%20Analysis.xlsx)
-[`Presentation Slides`](https://github.com/mabdullah275/Charity-Fundraising-Analysis/blob/main/Presentation%20Slides.pptx)
+[`Excel Workbook`](/Data%20Analysis.xlsx)
+[`Presentation Slides`](/Presentation%20Slides.pptx)
 
 > [!WARNING]
 > The Excel workbook I did my analysis on is a bit of a mess 😅
